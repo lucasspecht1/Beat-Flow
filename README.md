@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo
 
-Este projeto tem como intuito a demonstração de manuseio da framework ReactJS e suas principais bibliotecas
+Este projeto tem como intuito a criação de um reprodutor de musicas online
 
 ## 🛠️ Construído com
 
