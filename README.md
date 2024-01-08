@@ -18,6 +18,7 @@ Lista de Módulos / Frameworks utilizados na construção do projeto:
 ## ✒️ Autores
 
 Lucas Specht (https://gitlab.com/lucasspecht1)
+
 João Pedro Godoy (https://gitlab.com/jaumsw)
 
 
