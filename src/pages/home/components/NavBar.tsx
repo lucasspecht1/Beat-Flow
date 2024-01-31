@@ -1,9 +1,9 @@
-import Logo from '/public/media/beatflow_semfundo.png'
+import Logo from '/public/media/logo.png'
 
 export default function NavBar () {
     return (
-        <nav id="Navbar" className='w-full flex flex-row text-center justify-between mb-20'>
-            <img src={Logo} className='w-36 max-[1000px]:w-48'/>
+        <nav id="Navbar" className='w-full flex flex-row text-center justify-between mb-28'>
+            <img src={Logo} className='w-28 max-[1000px]:w-48 ml-5 mt-4'/>
             <div className='space-x-14 text-white mr-5 pt-10 max-[1000px]:hidden'>
                 <span className='space-x-7'>
                     <a className=' cursor-pointer'>Planos</a>
