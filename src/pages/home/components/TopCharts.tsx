@@ -2,12 +2,11 @@
 import { Autoplay } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
-
-import starboy from '/public/media/starboy.jpg'
-import smithereens from '/public/media/smithereens.jpg'
-import last_train_home from '/public/media/last_train_home.jpg';
-import blinding_lights from '/public/media/blinding_lights.png';
-import as_it_was from '/public/media/as_it_was.jpg';
+import starboy from '/media/starboy.jpg'
+import smithereens from '/media/smithereens.jpg'
+import last_train_home from '/media/last_train_home.jpg';
+import blinding_lights from '/media/blinding_lights.png';
+import as_it_was from '/media/as_it_was.jpg';
 
 export default function TopCharts() {
     return (<>
@@ -17,7 +16,7 @@ export default function TopCharts() {
                 <Swiper spaceBetween={20}                  
                         modules={[Autoplay]}
                         className='cursor-grab select-none'
-                        slidesPerView={5} 
+                        slidesPerView={4} 
                         autoplay={{ delay: 5000,
                                     disableOnInteraction: false }}>
                     <SwiperSlide>

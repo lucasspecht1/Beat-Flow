@@ -1,6 +1,6 @@
-import Logo from '/public/media/Logo.png'
-import gitlab from '/public/media/gitlab.png';
-import instagram from '/public/media/instagram.png';
+import Logo from '/media/logo.png'
+import gitlab from '/media/gitlab.png';
+import instagram from '/media/instagram.png';
 
 export default function Rodape() {
     return (

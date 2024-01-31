@@ -1,4 +1,4 @@
-import Reprodutor from '/public/media/player.png'
+import Reprodutor from '/media/player.png'
 
 export default function Resumo() {
     return (
