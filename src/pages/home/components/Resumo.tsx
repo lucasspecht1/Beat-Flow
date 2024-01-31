@@ -4,7 +4,7 @@ export default function Resumo() {
     return (
         <div className="grid min-[1000px]:grid-cols-2">
             <span className="flex flex-col justify-center max-[1000px]:mt-6 max-[1000px]:mb-6">
-                 <img className="self-start ml-12 center w-[90%] rounded-xl shadow-2xl shadow-black" src={Reprodutor}/>
+                 <img className="self-start ml-12 center w-[90%] rounded-xl border-2 border-blue-950 shadow-2xl shadow-black" src={Reprodutor}/>
             </span>
             <div className="text-white self-center ml-8 max-[1000px]:ml-14 max-[1000px]:mt-16 mr-16 text-justify font-raleway max-[1000px]:text-xl">
                 <h1 className="mt-2 mb-3 font-bold">Sobre o Projeto:</h1>
