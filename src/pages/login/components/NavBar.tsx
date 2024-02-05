@@ -1,5 +1,3 @@
-import Logo from '/public/media/beatflow_semfundo.png'
-
 export default function NavBar () {
     return (
         <nav id="Navbar" className='w-full flex flex-row text-center justify-between mb-20'>

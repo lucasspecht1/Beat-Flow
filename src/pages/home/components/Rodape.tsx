@@ -1,4 +1,4 @@
-import Logo from '/public/media/Logo.png'
+import Logo from '/public/media/logo.png'
 import gitlab from '/public/media/gitlab.png';
 import instagram from '/public/media/instagram.png';
 
