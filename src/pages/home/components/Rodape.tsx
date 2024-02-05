@@ -11,7 +11,7 @@ export default function Rodape() {
                     <img src={instagram} className='w-8 cursor-pointer'/>
                 </div>
                 <img src={Logo} className='w-20'/>
-                <p className="text-white mr-10">© 2024 - Zeus Player</p>
+                <p className="text-white mr-10">© 2024 - Beat Flow</p>
             </div>
         </div>
     );
