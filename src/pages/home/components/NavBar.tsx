@@ -3,7 +3,7 @@ import Logo from '/public/media/Logo.png'
 export default function NavBar () {
     return (
         <nav id="Navbar" className='w-full flex flex-row text-center justify-between mb-20'>
-            <img src={Logo} className='w-36 max-[1000px]:w-48'/>
+            <img src={Logo} className='w-28 max-[1000px]:w-32 ml-5 mt-5'/>
             <div className='space-x-14 text-white mr-5 pt-10 max-[1000px]:hidden'>
                 <span className='space-x-7'>
                     <a className=' cursor-pointer'>Planos</a>

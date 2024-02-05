@@ -10,3 +10,8 @@ body {
     font-family: "Raleway";
     src: url("/fonts/static/Raleway-Regular.ttf");
 }
+
+@font-face {
+    font-family: 'Poppins';
+    src: url("/fonts/Poppins-SemiBold.ttf");
+}

@@ -4,7 +4,8 @@ export default {
   theme: {
     extend: {},
     fontFamily: {
-      raleway: ['raleway', 'sans-serif']
+      raleway: ['raleway', 'sans-serif'],
+      poppins: ['poppins','san']
     }
   },
   plugins: [],
