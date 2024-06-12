@@ -1,8 +1,8 @@
-# Interface Web Para fins de estudos e testes
+# Reprodutor de musicas WEB criado em React - Typescript
 
 ## 🎯 Objetivo
 
-Este projeto tem como intuito a criação de um reprodutor de musicas online
+Este projeto tem como intuito a reprodução de músicas vindas do Youtube de forma online / offline
 
 ## 🛠️ Construído com
 
